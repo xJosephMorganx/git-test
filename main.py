@@ -1,1 +1,1 @@
-print("Hola Morgan PRO")
+print("Hola Morgan prompt")
